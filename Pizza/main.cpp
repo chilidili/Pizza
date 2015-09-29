@@ -1,9 +1,9 @@
 //
 //  main.cpp
-//  Pizza
+//  Project4
 //
-//  Created by Dylan Summers on 4/29/14.
-//  Copyright (c) 2014 Dylan Summers. All rights reserved.
+//  Created by Lab User on 4/23/14.
+//  Copyright (c) 2014 Kiera Dobbs. All rights reserved.
 //
 
 #include <iostream>
